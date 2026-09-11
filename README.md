@@ -1,55 +1,52 @@
-<!-- ============ HEADER ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5AF9,50:D66EFD,100:FF7AB6&height=210&section=header&text=Yaser%20Safar&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Software%20Engineering%20%E2%80%A2%20Design&descSize=18&descAlignY=58&descColor=FFFFFF" width="100%" />
-</p>
+<br />
 
-<!-- ============ TYPING ============ -->
+<!-- ============ HERO ============ -->
 <p align="center">
-  <a href="https://www.yasersafar.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=800&color=D66EFD&center=true&vCenter=true&width=650&height=45&lines=Hello%2C+I'm+Yaser;I+design+interfaces+and+the+code+behind+them;UX%2FUI+%E2%80%A2+Design+Systems+%E2%80%A2+Web;Building+AI+tools+for+developers" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=120&section=header&text=Yaser%20Safar.&fontSize=64&fontColor=F5F5F7&fontAlignY=50&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.yasersafar.com">
-    <img src="https://img.shields.io/badge/yasersafar.com-6A5AF9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=2800&pause=1200&color=86868B&center=true&vCenter=true&width=600&height=40&lines=Engineering+meets+design.;Designed+with+intention.;Built+to+ship.;AI+tools+for+developers." alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <a href="https://www.yasersafar.com"><b>yasersafar.com&nbsp;›</b></a>
+</p>
+
+<br /><br />
 
 <!-- ============ ABOUT ============ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5AF9,100:D66EFD&height=42&section=header&text=About%20Me&fontSize=22&fontColor=FFFFFF" width="100%" />
-
 <p align="center">
-  Final-year <b>Software Engineering</b> student at <b>Al Ain University</b>, UAE<br />
-  I design interfaces, build design systems, and write the code behind them<br />
-  Currently building an <b>AI-powered bug triage tool</b> for VS Code
+  <sub><b>ABOUT</b></sub>
 </p>
+
+<h3 align="center">
+  Software Engineering student at Al Ain University.<br />
+  I design interfaces and write the code behind them.
+</h3>
+
+<br /><br />
 
 <!-- ============ SKILLS ============ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D66EFD,100:FF7AB6&height=42&section=header&text=Skills&fontSize=22&fontColor=FFFFFF" width="100%" />
-
-<p align="center"><b>Code</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,php,html,css,fastapi,postgres,mysql&theme=dark" />
+  <sub><b>SKILLS</b></sub>
 </p>
 
-<p align="center"><b>Design</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,php,html,css,fastapi,postgres&theme=dark" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mysql,figma,ps,ai,vscode,idea,git,github&theme=dark" />
 </p>
+
+<br /><br />
 
 <!-- ============ ACTIVITY ============ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7AB6,100:FFB86B&height=42&section=header&text=Activity&fontSize=22&fontColor=FFFFFF" width="100%" />
-
 <p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=yasersafar&hide_border=true&background=00000000&ring=D66EFD&fire=FF7AB6&currStreakLabel=D66EFD&sideLabels=FFB86B&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9A9AB0&stroke=6A5AF9" />
+  <sub><b>ACTIVITY</b></sub>
 </p>
 
 <p align="center">
-  <img width="90%" src="https://ghchart.rshah.org/D66EFD/yasersafar" alt="Contribution chart" />
+  <img height="150" src="https://streak-stats.demolab.com?user=yasersafar&hide_border=true&background=00000000&ring=2997FF&fire=2997FF&currStreakLabel=F5F5F7&sideLabels=86868B&currStreakNum=F5F5F7&sideNums=F5F5F7&dates=6E6E73&stroke=333336" />
 </p>
 
-<!-- ============ FOOTER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7AB6,50:D66EFD,100:6A5AF9&height=90&section=footer" width="100%" />
+<br />
