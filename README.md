@@ -1,98 +1,62 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2B2B2B&height=190&section=header&text=Yaser%20Safar&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20%C2%B7%20Design&descAlignY=56&descSize=17&descColor=BBBBBB" width="100%" />
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1100&color=FFFFFF&center=true&vCenter=true&width=640&lines=Software+Engineering+Student+%40+Al+Ain+University;Interfaces%2C+design+systems%2C+and+the+web+they+ship+on;Building+an+AI-powered+bug+triage+tool+for+VS+Code" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1F1F1F,100:000000&height=260&section=header&text=Yaser%20Safar&fontSize=62&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Software%20Engineering%20%E2%80%A2%20Design&descSize=18&descAlignY=62&descColor=A0A0A0" width="100%" />
 </p>
 
+<!-- Typing -->
 <p align="center">
-  <a href="https://www.yasersafar.com"><img src="https://img.shields.io/badge/Portfolio-yasersafar.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.yasersafar.com/resume"><img src="https://img.shields.io/badge/Resume-View-333333?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
-  <a href="mailto:hello@yasersafar.com"><img src="https://img.shields.io/badge/hello%40yasersafar.com-555555?style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.yasersafar.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=Hello%2C+I'm+Yaser;I+design+interfaces+and+the+code+behind+them;UX%2FUI+%E2%80%A2+Design+Systems+%E2%80%A2+Web;Building+AI+tools+for+developers" alt="Typing SVG" />
+  </a>
 </p>
 
----
-
-## About
-
-Final-year Software Engineering student at **Al Ain University**, UAE, working where engineering meets design.
-
-- **Engineering:** requirements, software design, databases, testing, and backend development
-- **Design:** UX/UI, design systems, branding, and 3D & motion
-- **Web:** responsive sites, Webflow, and SEO
-- **Currently building:** an AI-powered bug triage extension for VS Code (capstone project)
-- **Languages:** Arabic, English, Dari
-
----
-
-## Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,php,html,css&perline=12" />
-</p>
-
-**Backend and Data**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql&perline=12" />
-</p>
-
-**Design**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=12" />
+<!-- Links -->
+<p align="center">
+  <a href="https://www.yasersafar.com"><img src="https://img.shields.io/badge/-yasersafar.com-000000?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" height="48" />
-</p>
-
-**Tools and Testing**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github&perline=12" />
+  <a href="mailto:hello@yasersafar.com"><img src="https://img.shields.io/badge/-hello@yasersafar.com-000000?style=flat-square&logo=maildotcom&logoColor=white" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="48" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="48" />
+  <a href="https://www.yasersafar.com/resume"><img src="https://img.shields.io/badge/-Resume-000000?style=flat-square&logo=readdotcv&logoColor=white" /></a>
 </p>
 
----
+<br />
 
-## Projects
+<!-- Intro -->
+<p align="center">
+  <i>Final-year Software Engineering student at Al Ain University, UAE.</i><br />
+  <i>Working where engineering meets design, from the first sketch to the shipped product.</i>
+</p>
 
-| Project | Context | Stack |
-|:--|:--|:--|
-| **AI-Powered Bug Tracking System** | SE Capstone · Team of 4 · 2026 | VS Code Extension, Python, FastAPI, PostgreSQL, ML |
-| **Full-Stack Web Application** | Web Development · 2025 | HTML, CSS, JavaScript, PHP, SQL |
-| **University Management Database** | Database Systems · 2025 | ER modeling, SQL |
-| **OOP & Reverse Engineering Apps** | Software Maintenance and Evolution · 2026 | Java, Python, PlantUML, IntelliJ |
+<br />
 
-### Featured: AI-Powered Bug Tracking System
+<!-- Skills -->
+<h3 align="center">Code</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,php,html,css,fastapi,postgres,mysql&theme=dark" />
+</p>
 
-A VS Code extension that automates bug triage with machine learning:
+<h3 align="center">Design</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
+</p>
 
-- **Real-time duplicate detection** while the reporter types (BM25 + semantic similarity)
-- **Automatic severity classification** (TF-IDF ensemble)
-- **Developer assignment recommendations**, including cold-start handling for new developers
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github&theme=dark" />
+</p>
 
-*Capstone I (requirements and design) complete · Capstone II (implementation) in progress · Repository is private.*
+<br />
 
----
-
-## Education
-
-**B.Sc. Software Engineering** · Al Ain University · 2022 – 2026 (expected)
-
-Relevant coursework: Software Requirements and Specifications, Software Design and Development, Software Maintenance and Evolution, Software Project Management, Database Systems, Object-Oriented Programming, Web Development
-
----
-
-## GitHub Activity
+<!-- Stats -->
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=yasersafar&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=A0A0A0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666&stroke=333333" />
+</p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yasersafar&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF" />
-  <img height="165" src="https://streak-stats.demolab.com?user=yasersafar&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=333333" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yasersafar&bg_color=00000000&color=A0A0A0&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&custom_title=Activity" />
 </p>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2B2B,100:000000&height=100&section=footer" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1F1F1F,100:000000&height=120&section=footer" width="100%" />
+</p>
