@@ -1,8 +1,6 @@
-<br />
-
-<!-- ============ HERO ============ -->
+<!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=110&section=header&text=Yaser%20Safar.&fontSize=62&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn" width="100%" />
+  <img src="assets/header.svg" width="100%" alt="Yaser Safar" />
 </p>
 
 <p align="center">
@@ -80,11 +78,6 @@
 
 <br />
 
-<details>
-<summary align="center"><sub><b>&lt;/&gt;</b></sub></summary>
-
-<br />
-
 ```
                                          0000
                                      0000000
@@ -132,7 +125,3 @@
                                              000                             0000  000
                                             00
 ```
-
-</details>
-
-<br />
